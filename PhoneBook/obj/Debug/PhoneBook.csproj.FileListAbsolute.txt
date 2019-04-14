@@ -1,0 +1,7 @@
+C:\Hillel\HW_8\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Hillel\HW_8\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Hillel\HW_8\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Hillel\HW_8\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Hillel\HW_8\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Hillel\HW_8\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Hillel\HW_8\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
